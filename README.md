@@ -2,6 +2,8 @@
 
 This project provides a Terraform script for deploying either the open-source or enterprise versions of EMQX on Microsoft Azure. EMQX is an open-source, distributed MQTT message broker for IoT applications and is designed to handle large amounts of concurrent client connections.
 
+[One-Click Deploying EMQX MQTT Broker on Azure Using Terraform](https://www.emqx.com/en/blog/one-click-deploying-emqx-mqtt-broker-on-azure-using-terraform)
+
 
 ## Compatability
 
